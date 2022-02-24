@@ -1,4 +1,4 @@
-# sandlerdouglas.github.io
+Sandler Douglas
 My name is Sandler Douglas. I am a sophmore at Lehigh University majoring in journalism and communications with minors in business and marketing. I am using this page to write about and express insterest in data journalism. 
 
 I am the sixth generation in my family born and raised in Oakland, Caliornia. I am a huge sports fan, particularly of the Oakland Athletics and I love to talk and watch sports. Additionally, I enjoy spending time with my family and friends, traveling, and making people laugh.  
