@@ -5,3 +5,4 @@ I am the sixth generation in my family born and raised in Oakland, Caliornia. I 
 
 ![image](https://media-exp1.licdn.com/dms/image/C4E03AQHtiSpau59ahA/profile-displayphoto-shrink_400_400/0/1640392593705?e=1650499200&v=beta&t=QZTszJpa0A7I0O5FB1bJLWvKKNktM48cV9ltjlPqb1o)
 [My LinkedIn](https://www.linkedin.com/in/sandler-douglas/)
+[Lehigh.pdf](https://github.com/sandlerdouglas/sandlerdouglas.github.io/files/8133503/Lehigh.pdf)
