@@ -9,3 +9,6 @@ I am the sixth generation in my family born and raised in Oakland, Caliornia. I 
 [My LinkedIn](https://www.linkedin.com/in/sandler-douglas/)
 
 ![Lehigh (1)](https://user-images.githubusercontent.com/99892260/155554422-b100d281-049a-42e9-8a99-0d3423774e68.png)
+
+![MLB Lockout's](https://user-images.githubusercontent.com/99892260/155906631-fde4f268-5883-4bd6-a594-7bb7d902162c.png)
+
