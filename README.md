@@ -12,3 +12,4 @@ I am the sixth generation in my family born and raised in Oakland, Caliornia. I 
 
 ![MLB Lockout's](https://user-images.githubusercontent.com/99892260/155906631-fde4f268-5883-4bd6-a594-7bb7d902162c.png)
 
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1L0HcLNUo2jNv0dd_NxCRIz9dbHHgwKwVxiihwnotHic&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe> 
