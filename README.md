@@ -17,3 +17,5 @@ I am the sixth generation in my family born and raised in Oakland, Caliornia. I 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1lxhsnGie32DrBVTa1X6VoeSSmDYJw0TyCINwB2IU1mw&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 ![v_37 90%_chartbuilder](https://user-images.githubusercontent.com/99892260/157696332-202efa5c-c207-4e4a-b19a-487347c4d8cb.png)
+
+https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2021.pdf 
