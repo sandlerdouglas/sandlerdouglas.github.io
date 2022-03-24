@@ -22,3 +22,5 @@ https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1lxhsnGi
 ![Percent_of_Students_in_Three_Different_Colleges_Arts_ _Sciences_Business_Engineering_chartbuilder](https://user-images.githubusercontent.com/99892260/159930986-cd76bdfd-9ed6-45e9-a100-01a7e46942ed.png)
 
 ![2017_Life_Satisfaction_and_GDP_Per_Capita_Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_chartbuilder](https://user-images.githubusercontent.com/99892260/159932952-5a35090d-46c8-4fb4-af2c-722af562898f.png)
+ 
+ In the scatter plot graph about 2017 Life Satisfaction and GDP Per Capita, it is found that the highest life satisifcation was roughly 8.00 when the GDP was 40585.721. 
