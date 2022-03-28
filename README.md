@@ -25,5 +25,5 @@ https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1lxhsnGi
  
  In the scatter plot graph about 2017 Life Satisfaction and GDP Per Capita, it is found that the highest life satisifcation was roughly 8.00 when the GDP was 40585.721. 
  
- 
-![Wins_Wins_chartbuilder](https://user-images.githubusercontent.com/99892260/160311135-186f7359-9885-4550-9c5b-82dfa39e6924.png)
+ ![Oakland_Athletics_Wins_by_Season_Wins_chartbuilder](https://user-images.githubusercontent.com/99892260/160311397-4b781446-5122-48f0-b8e0-edc605cc21ca.png)
+
