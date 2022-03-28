@@ -24,3 +24,6 @@ https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1lxhsnGi
 ![2017_Life_Satisfaction_and_GDP_Per_Capita_Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_chartbuilder](https://user-images.githubusercontent.com/99892260/159932952-5a35090d-46c8-4fb4-af2c-722af562898f.png)
  
  In the scatter plot graph about 2017 Life Satisfaction and GDP Per Capita, it is found that the highest life satisifcation was roughly 8.00 when the GDP was 40585.721. 
+ 
+ 
+![Wins_Wins_chartbuilder](https://user-images.githubusercontent.com/99892260/160311135-186f7359-9885-4550-9c5b-82dfa39e6924.png)
