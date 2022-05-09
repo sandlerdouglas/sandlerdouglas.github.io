@@ -19,7 +19,12 @@ I am the sixth generation in my family born and raised in Oakland, Caliornia. I 
 
 ![Percent_of_Students_in_Three_Different_Colleges_Arts_ _Sciences_Business_Engineering_chartbuilder](https://user-images.githubusercontent.com/99892260/159930986-cd76bdfd-9ed6-45e9-a100-01a7e46942ed.png)
 
+![Housing_Percentage_Housing_Percentage_chartbuilder (1)](https://user-images.githubusercontent.com/99892260/167469301-6627c3b4-61b5-44cf-8563-19428d9898c4.png)
+
+
 ![2017_Life_Satisfaction_and_GDP_Per_Capita_Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_chartbuilder](https://user-images.githubusercontent.com/99892260/159932952-5a35090d-46c8-4fb4-af2c-722af562898f.png)
+
+
  
  In the scatter plot graph about 2017 Life Satisfaction and GDP Per Capita, it is found that the highest life satisifcation was roughly 8.00 when the GDP was 40585.721. 
  
@@ -35,3 +40,5 @@ I am the sixth generation in my family born and raised in Oakland, Caliornia. I 
 <div class='tableauPlaceholder' id='viz1651101576296' style='position: relative'><noscript><a href='#'><img alt='Treasury Reporting Rates of Exchange ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;KR&#47;KRT7QRYF9&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;KRT7QRYF9' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;KR&#47;KRT7QRYF9&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div> <script type='text/javascript'> var divElement = document.getElementById('viz1651101576296'); var vizElement = divElement.getElementsByTagName('object')[0];       vizElement.style.width='1016px';vizElement.style.height='991px'; var scriptElement = document.createElement('script');   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement); </script>
 
 This graph shows the Treasury Reporting Rates of Exchange and the Fiscal Quarter and Currency. The data stems from https://fiscaldata.treasury.gov/datasets/treasury-reporting-rates-exchange/treasury-reporting-rates-of-exchange. 
+
+
