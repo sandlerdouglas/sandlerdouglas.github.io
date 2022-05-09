@@ -8,9 +8,14 @@ I am the sixth generation in my family born and raised in Oakland, Caliornia. I 
 ![image](https://media-exp1.licdn.com/dms/image/C4E03AQHtiSpau59ahA/profile-displayphoto-shrink_400_400/0/1640392593705?e=1650499200&v=beta&t=QZTszJpa0A7I0O5FB1bJLWvKKNktM48cV9ltjlPqb1o)
 [My LinkedIn](https://www.linkedin.com/in/sandler-douglas/)
 
+The data below shows the Lehigh University fall of 2021 undergraduate enrollment
 ![Lehigh (1)](https://user-images.githubusercontent.com/99892260/155554422-b100d281-049a-42e9-8a99-0d3423774e68.png)
+This data stems from https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2021.pdf
 
+
+The fiancial impact of the MLB Lockout
 ![MLB Lockout's](https://user-images.githubusercontent.com/99892260/155906631-fde4f268-5883-4bd6-a594-7bb7d902162c.png)
+The poster above shows the potential fiancial impact of the Major League Baseball lockout. If there is no MLB season, the players, the owners, and the league would all lose money and fans. This data comes from truebluela.com. 
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1lxhsnGie32DrBVTa1X6VoeSSmDYJw0TyCINwB2IU1mw&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
                                 
