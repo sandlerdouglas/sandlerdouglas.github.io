@@ -11,7 +11,7 @@ I am the sixth generation in my family born and raised in Oakland, Caliornia. I 
 # Lehigh University Fall of 2021 Undergraduate Enrollment
 ![Lehigh (1)](https://user-images.githubusercontent.com/99892260/155554422-b100d281-049a-42e9-8a99-0d3423774e68.png)
 
-This data stems from https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2021.pdf. The data shows different categorties and affliations of the undergraduates
+This data stems from https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2021.pdf. The data shows different categorties and affliations of the undergraduate population of Lehigh's fall of 2021 undergraduate enrollment. 
 
 
 # The Fiancial Impact of the MLB Lockout
@@ -27,7 +27,7 @@ The timeline above shows the history of Major League Baseball's Oakland Athletic
 # Lehigh University Undergraduate Home State
 ![Lehigh_Undergraduate_Residency_Percent_chartbuilder (1)](https://user-images.githubusercontent.com/99892260/157932981-b40c7441-4b23-4487-906d-573a6ba9c043.png)
 
-The data above illustrates Lehigh University's undergraduate home state. As shown, Pennsylvania and New Jersey/New York are the two most common homestates.This data comes from https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2021.pdf
+The data above illustrates Lehigh University's undergraduate home state. As shown, Pennsylvania and New Jersey/New York are the two most common homestates. This data comes from https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2021.pdf
 
 # Lehigh University College Enrollment
 ![Percent_of_Students_in_Three_Different_Colleges_Arts_ _Sciences_Business_Engineering_chartbuilder](https://user-images.githubusercontent.com/99892260/159930986-cd76bdfd-9ed6-45e9-a100-01a7e46942ed.png)
